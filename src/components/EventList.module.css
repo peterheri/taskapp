@@ -1,0 +1,18 @@
+.card {
+    box-shadow: 10px, 4px, 5px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    max-width: 400px;
+    margin: 10px auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+    background-color: rgb(97, 144, 158);
+}
+.card button {
+    background-color: #555;
+}
+
+.eventDate{
+    font-size: 15px;
+}

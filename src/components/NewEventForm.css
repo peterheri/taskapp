@@ -1,0 +1,28 @@
+.new-event-form label {
+    display: block;
+    text-align:left;
+    width:100%;
+    margin:10px auto;
+    padding:10px;
+    box-sizing:border-box;
+    font-size:1.2em;
+    color: white
+}
+.new-event-form input {
+    display: block;
+    text-align:left;
+    width:100%;
+    margin:10px auto;
+    padding:10px;
+    box-sizing:border-box;
+    font-size:1.2em;
+    
+}
+
+.submit, .close {
+    color: black;
+    background-color: white;
+    text-decoration:solid;
+    font-weight: bold;
+    font-size: large;
+}
